@@ -1,12 +1,19 @@
 def explain_moment():
 
-    return """
-Alex's goal was not an isolated event.
+    explanation = """
+Why this moment matters:
 
-It resulted from sustained possession,
-multiple successful passes and continued
-attacking pressure.
+The goal was not a standalone event.
 
-This indicates tactical control rather than
-a random scoring opportunity.
+Blue FC maintained control through a series of
+successful passes which increased pressure on
+the opposition defense.
+
+Sustained possession created better scoring
+opportunities and ultimately led to the goal.
+
+This demonstrates tactical control rather
+than a random attacking moment.
 """
+
+    return explanation
