@@ -33,3 +33,21 @@ Recap Agent
 ✅ Player Mode
 ✅ Multi-Language Support
 ✅ Match Recap
+## Problem
+
+Football fans receive statistics but often lack context.
+
+## Solution
+
+MatchPulse converts football events into AI-generated explainable narratives, live insights and personalized fan experiences.
+
+## Features
+
+- Live Match Feed
+- Match Intelligence
+- Explainability
+- Analyst Mode
+- Fan Mode
+- Player Mode
+- Multi-language Support
+- Match Recaps
