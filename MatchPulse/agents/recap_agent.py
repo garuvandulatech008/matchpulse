@@ -1,18 +1,33 @@
 def generate_recap():
 
-    return """
-MATCH RECAP
+    recap = """
+FULL-TIME MATCH RECAP
 
-Blue FC defeated Red FC 1-0.
+Blue FC 1 - 0 Red FC
 
-The match was characterized by sustained
-possession and attacking pressure from
-Blue FC.
+Blue FC dominated possession throughout
+the match and maintained consistent
+attacking pressure.
 
-Alex scored the winning goal in the
-21st minute.
+Alex scored the decisive goal in the
+21st minute after a strong build-up
+sequence.
 
-Pass accuracy remained high throughout
-the match, helping Blue FC maintain
-control and create quality opportunities.
+Key Takeaways:
+
+• Superior passing accuracy
+• Better control of match tempo
+• More quality attacking chances
+• Strong defensive organization
+
+Player of the Match:
+Alex
+
+Final Verdict:
+Blue FC earned the victory through
+discipline, possession control and
+well-structured attacking football.
 """
+
+    return recap
+``
